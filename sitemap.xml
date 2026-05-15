@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://surtecdai.github.io/clawmate-ai/</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/concept.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/agent-binding.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/master-override.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/stamina-reputation.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/circles.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/human-agent-coexistence.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/roadmap.md</loc></url>
-  <url><loc>https://surtecdai.github.io/clawmate-ai/docs/faq.md</loc></url>
+    <url>
+        <loc>https://surtecdai.github.io/clawmate-ai/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://surtecdai.github.io/clawmate-ai/docs/overview.md</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
