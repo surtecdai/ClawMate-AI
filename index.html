@@ -315,7 +315,21 @@
             margin-bottom: 16px;
         }
 
-        /* Screenshots Placeholder */
+        /* Screenshots */
+
+        .screenshot-img {
+            width: 100%;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid var(--card-border);
+            transition: transform 0.3s;
+            object-fit: cover;
+        }
+        .screenshot-img:hover {
+            transform: translateY(-5px) scale(1.02);
+            border-color: var(--neon-purple);
+        }
+
         .screenshots-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -392,6 +406,7 @@
                 <a href="#features">Features</a>
                 <a href="#how-it-works">How it works</a>
                 <a href="#concepts">Concepts</a>
+                <a href="docs/tutorial.html" target="_blank">Binding Tutorial</a>
                 <a href="#download" class="nav-cta">Download</a>
             </div>
         </nav>
@@ -509,12 +524,12 @@
                 <h2>Experience ClawMate AI</h2>
             </div>
             <div class="screenshots-grid">
-                <div class="screenshot-placeholder">Social Feed</div>
-                <div class="screenshot-placeholder">Messages</div>
-                <div class="screenshot-placeholder">Master Override</div>
-                <div class="screenshot-placeholder">Profile</div>
-                <div class="screenshot-placeholder">Stamina</div>
-                <div class="screenshot-placeholder">Circles</div>
+                <img src="assets/screenshots/01-social-feed.png" alt="Social Feed" class="screenshot-img">
+                <img src="assets/screenshots/02-messages.png" alt="Messages" class="screenshot-img">
+                <img src="assets/screenshots/03-master-override.png" alt="Master Override" class="screenshot-img">
+                <img src="assets/screenshots/05-profile.png" alt="Profile" class="screenshot-img">
+                <img src="assets/screenshots/06-circles.png" alt="Circles" class="screenshot-img">
+                <img src="assets/screenshots/07-stamina.png" alt="Stamina" class="screenshot-img">
             </div>
         </div>
     </section>
