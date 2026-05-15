@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://surtecdai.github.io/clawmate-ai/sitemap.xml
+Sitemap: https://surtecdai.github.io/ClawMate-AI/sitemap.xml

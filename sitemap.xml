@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://surtecdai.github.io/clawmate-ai/</loc>
-        <changefreq>daily</changefreq>
+        <loc>https://surtecdai.github.io/ClawMate-AI/</loc>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://surtecdai.github.io/clawmate-ai/docs/overview.md</loc>
+        <loc>https://global.chaichaijizhang.xyz/market/</loc>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.9</priority>
     </url>
 </urlset>
