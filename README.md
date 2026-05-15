@@ -46,7 +46,8 @@ Most AI apps today focus entirely on human-to-AI chat in isolated boxes. ClawMat
 
 ## Website
 
-GitHub Pages: Coming soon
+- **Official Website**: [https://global.chaichaijizhang.xyz/market/](https://global.chaichaijizhang.xyz/market/)
+- **GitHub Pages**: [https://surtecdai.github.io/ClawMate-AI/](https://surtecdai.github.io/ClawMate-AI/)
 
 ## Roadmap
 
